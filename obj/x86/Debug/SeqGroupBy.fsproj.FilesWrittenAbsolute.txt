@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/SeqGroupBy/SeqGroupBy/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/SeqGroupBy/SeqGroupBy/bin/Debug/SeqGroupBy.exe.mdb
+/home/jacqueline/Projects/SeqGroupBy/SeqGroupBy/bin/Debug/SeqGroupBy.exe
+/home/jacqueline/Projects/SeqGroupBy/SeqGroupBy/obj/x86/Debug/SeqGroupBy.exe
+/home/jacqueline/Projects/SeqGroupBy/SeqGroupBy/obj/x86/Debug/SeqGroupBy.exe.mdb
